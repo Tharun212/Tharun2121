@@ -78,7 +78,8 @@ int sum(int arr[], int size, int X)
     }
     return 0;
 }
-int main() {
+int main() 
+{
     int arr[10],size,i,X;
     printf("enter the size of the array:");
     scanf("%d",&size);
